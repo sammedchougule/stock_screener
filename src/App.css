@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+/* Hide scrollbar in Chrome, Safari, and Edge */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}

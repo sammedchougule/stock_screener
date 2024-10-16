@@ -1,0 +1,3262 @@
+{
+    "stocks": [
+        {
+            "symbol": "RELIANCE",
+            "company_name": "Reliance Industries Ltd",
+            "industry": "Conglomerate",
+            "sector": "Energy, Petrochemicals, Textiles, Natural Resources, Retail, Telecommunications",
+            "exchange": "NSE",  
+            "stock_data": {
+              "current_price": 2400.50,
+              "change_rs": 25.65,
+              "percentage_change": 2.5,
+              "opening_price": 2395.00,
+              "day_high": 2415.00,
+              "day_low": 2380.00,
+              "previous_close": 2398.00,
+              "market_cap": 1550000.00,
+              "pe_ratio": 30.25,
+              "dividend_yield": 0.75,
+              "earnings_per_share": 79.50,
+              "volume": 12345678,
+              "avg_volume": 15000000,
+              "beta": 1.25,
+              "52_week_high": 2650.00,
+              "52_week_low": 2100.00,
+              "year_to_date_return": 12.5,
+              "analyst_ratings": {
+                "strong_buy": 15,
+                "buy": 10,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 700000.00,
+                "operating_expense": 500000.00,
+                "operating_profit": 200000.00,
+                "other_income": 15000.00,
+                "depreciation_and_amortization": 20000.00,
+                "interest": 25000.00,
+                "profit_before_tax": 175000.00,
+                "tax": 35000.00,
+                "net_profit": 140000.00
+              },
+              "balance_sheet": {
+                "total_assets": 2500000.00,
+                "total_liabilities": 1000000.00,
+                "shareholder_equity": 1500000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 100000.00,
+                "investing_cash_flow": -50000.00,
+                "financing_cash_flow": 20000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-11",
+                "headline": "Reliance Industries Launches New Renewable Energy Project",
+                "link": "https://example.com/reliance-new-renewable-energy-project",
+                "company": "Reliance"
+              },
+              {
+                "date": "2024-10-05",
+                "headline": "Reliance Industries Q2 Earnings Report Shows Strong Growth",
+                "link": "https://example.com/reliance-q2-earnings-report"
+              },
+              {
+                "date": "2024-09-30",
+                "headline": "Reliance Industries Expands Retail Footprint in India",
+                "link": "https://example.com/reliance-retail-expansion"
+              }
+            ]
+          },
+          {
+            "symbol": "TCS",
+            "company_name": "Tata Consultancy Services Ltd",
+            "industry": "Information Technology",
+            "sector": "Technology",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 3500.00,
+              "change_rs": -25.65,
+              "percentage_change": -2.5,
+              "opening_price": 3480.00,
+              "day_high": 3515.00,
+              "day_low": 3460.00,
+              "previous_close": 3485.00,
+              "market_cap": 1200000.00,
+              "pe_ratio": 25.50,
+              "dividend_yield": 1.50,
+              "earnings_per_share": 137.50,
+              "volume": 9500000,
+              "avg_volume": 10500000,
+              "beta": 0.85,
+              "52_week_high": 3750.00,
+              "52_week_low": 3200.00,
+              "year_to_date_return": 8.5,
+              "analyst_ratings": {
+                "strong_buy": 20,
+                "buy": 10,
+                "hold": 3,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 1000000.00,
+                "operating_expense": 600000.00,
+                "operating_profit": 400000.00,
+                "other_income": 50000.00,
+                "depreciation_and_amortization": 40000.00,
+                "interest": 10000.00,
+                "profit_before_tax": 410000.00,
+                "tax": 80000.00,
+                "net_profit": 330000.00
+              },
+              "balance_sheet": {
+                "total_assets": 5000000.00,
+                "total_liabilities": 1500000.00,
+                "shareholder_equity": 3500000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 300000.00,
+                "investing_cash_flow": -150000.00,
+                "financing_cash_flow": 50000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-12-08",
+                "headline": "TCS Q4 results beat expectations",
+                "link": "https://example.com/reliance-new-renewable-energy-project"
+              },
+              {
+                "date": "2024-10-05",
+                "headline": "TCS share jump 4% early market open today",
+                "link": "https://example.com/reliance-q2-earnings-report"
+              }
+            ]
+          },
+          {
+            "symbol": "INFY",
+            "company_name": "Infosys Ltd",
+            "industry": "Information Technology",
+            "sector": "Technology",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 1600.00,
+              "change_rs": 18.75,
+              "percentage_change": 1.55,
+              "opening_price": 1580.00,
+              "day_high": 1615.00,
+              "day_low": 1570.00,
+              "previous_close": 1590.00,
+              "market_cap": 700000.00,
+              "pe_ratio": 30.00,
+              "dividend_yield": 2.00,
+              "earnings_per_share": 53.50,
+              "volume": 8500000,
+              "avg_volume": 9000000,
+              "beta": 1.00,
+              "52_week_high": 1720.00,
+              "52_week_low": 1400.00,
+              "year_to_date_return": 7.0,
+              "analyst_ratings": {
+                "strong_buy": 18,
+                "buy": 8,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 800000.00,
+                "operating_expense": 500000.00,
+                "operating_profit": 300000.00,
+                "other_income": 25000.00,
+                "depreciation_and_amortization": 35000.00,
+                "interest": 15000.00,
+                "profit_before_tax": 275000.00,
+                "tax": 55000.00,
+                "net_profit": 220000.00
+              },
+              "balance_sheet": {
+                "total_assets": 4000000.00,
+                "total_liabilities": 1200000.00,
+                "shareholder_equity": 2800000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 250000.00,
+                "investing_cash_flow": -100000.00,
+                "financing_cash_flow": 40000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-21",
+                "headline": "Inosys resluts are below expectations",
+                "link": "https://example.com/reliance-new-renewable-energy-project"
+              },
+              {
+                "date": "2024-10-05",
+                "headline": "Infosys share fell 3.4% today of bad result",
+                "link": "https://example.com/reliance-q2-earnings-report"
+              }
+            ]
+          },
+          {
+            "symbol": "HDFCBANK",
+            "company_name": "HDFC Bank Ltd",
+            "industry": "Banking",
+            "sector": "Financial Services",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 1650.00,
+              "opening_price": 1640.00,
+              "day_high": 1665.00,
+              "day_low": 1625.00,
+              "previous_close": 1645.00,
+              "market_cap": 900000.00,
+              "pe_ratio": 22.50,
+              "dividend_yield": 1.25,
+              "earnings_per_share": 73.00,
+              "volume": 11000000,
+              "avg_volume": 9500000,
+              "beta": 0.95,
+              "52_week_high": 1750.00,
+              "52_week_low": 1500.00,
+              "year_to_date_return": 10.2,
+              "analyst_ratings": {
+                "strong_buy": 25,
+                "buy": 12,
+                "hold": 3,
+                "sell": 0,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 1500000.00,
+                "operating_expense": 1000000.00,
+                "operating_profit": 500000.00,
+                "other_income": 40000.00,
+                "depreciation_and_amortization": 30000.00,
+                "interest": 150000.00,
+                "profit_before_tax": 380000.00,
+                "tax": 76000.00,
+                "net_profit": 304000.00
+              },
+              "balance_sheet": {
+                "total_assets": 6000000.00,
+                "total_liabilities": 2500000.00,
+                "shareholder_equity": 3500000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 400000.00,
+                "investing_cash_flow": -200000.00,
+                "financing_cash_flow": 60000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-01",
+                "headline": "HDFCBANK merger with HDFCAMC latest news",
+                "link": "https://example.com/reliance-new-renewable-energy-project"
+              }
+            ]
+          },
+          {
+            "symbol": "ITC",
+            "company_name": "ITC Ltd",
+            "industry": "Consumer Goods",
+            "sector": "Cigarettes, FMCG, Hotels, Packaging",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 450.00,
+              "opening_price": 445.00,
+              "day_high": 455.00,
+              "day_low": 440.00,
+              "previous_close": 445.00,
+              "market_cap": 550000.00,
+              "pe_ratio": 18.00,
+              "dividend_yield": 4.00,
+              "earnings_per_share": 25.00,
+              "volume": 18000000,
+              "avg_volume": 20000000,
+              "beta": 0.75,
+              "52_week_high": 470.00,
+              "52_week_low": 400.00,
+              "year_to_date_return": 5.8,
+              "analyst_ratings": {
+                "strong_buy": 12,
+                "buy": 15,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 900000.00,
+                "operating_expense": 600000.00,
+                "operating_profit": 300000.00,
+                "other_income": 20000.00,
+                "depreciation_and_amortization": 50000.00,
+                "interest": 10000.00,
+                "profit_before_tax": 260000.00,
+                "tax": 52000.00,
+                "net_profit": 208000.00
+              },
+              "balance_sheet": {
+                "total_assets": 4000000.00,
+                "total_liabilities": 1500000.00,
+                "shareholder_equity": 2500000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 280000.00,
+                "investing_cash_flow": -90000.00,
+                "financing_cash_flow": 40000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-19",
+                "headline": "ITC share drops today becaus of taxation tobaco industry",
+                "link": "https://example.com/reliance-new-renewable-energy-project"
+              }
+            ]
+          },
+          {
+            "symbol": "BAJFINANCE",
+            "company_name": "Bajaj Finance Ltd",
+            "industry": "Financial Services",
+            "sector": "Non-Banking Financial Services",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 7800.00,
+              "opening_price": 7750.00,
+              "day_high": 7900.00,
+              "day_low": 7700.00,
+              "previous_close": 7750.00,
+              "market_cap": 450000.00,
+              "pe_ratio": 40.50,
+              "dividend_yield": 0.70,
+              "earnings_per_share": 192.50,
+              "volume": 5500000,
+              "avg_volume": 6000000,
+              "beta": 1.30,
+              "52_week_high": 8200.00,
+              "52_week_low": 6800.00,
+              "year_to_date_return": 12.0,
+              "analyst_ratings": {
+                "strong_buy": 18,
+                "buy": 12,
+                "hold": 4,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 1200000.00,
+                "operating_expense": 700000.00,
+                "operating_profit": 500000.00,
+                "other_income": 20000.00,
+                "depreciation_and_amortization": 40000.00,
+                "interest": 100000.00,
+                "profit_before_tax": 380000.00,
+                "tax": 76000.00,
+                "net_profit": 304000.00
+              },
+              "balance_sheet": {
+                "total_assets": 7000000.00,
+                "total_liabilities": 3000000.00,
+                "shareholder_equity": 4000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 450000.00,
+                "investing_cash_flow": -150000.00,
+                "financing_cash_flow": 80000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-06",
+              "headline": "Bajfinance Introduces New EMI card",
+              "link": "https://example.com/bajaj-auto-electric-scooter"
+              }
+            ]
+          },
+          {
+            "symbol": "MARUTI",
+            "company_name": "Maruti Suzuki India Ltd",
+            "industry": "Automobile",
+            "sector": "Manufacturing",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 10500.00,
+              "opening_price": 10450.00,
+              "day_high": 10650.00,
+              "day_low": 10350.00,
+              "previous_close": 10400.00,
+              "market_cap": 320000.00,
+              "pe_ratio": 35.00,
+              "dividend_yield": 0.90,
+              "earnings_per_share": 285.00,
+              "volume": 3500000,
+              "avg_volume": 4000000,
+              "beta": 1.10,
+              "52_week_high": 11200.00,
+              "52_week_low": 9500.00,
+              "year_to_date_return": 15.5,
+              "analyst_ratings": {
+                "strong_buy": 16,
+                "buy": 10,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 2000000.00,
+                "operating_expense": 1500000.00,
+                "operating_profit": 500000.00,
+                "other_income": 50000.00,
+                "depreciation_and_amortization": 60000.00,
+                "interest": 30000.00,
+                "profit_before_tax": 460000.00,
+                "tax": 92000.00,
+                "net_profit": 368000.00
+              },
+              "balance_sheet": {
+                "total_assets": 9000000.00,
+                "total_liabilities": 3500000.00,
+                "shareholder_equity": 5500000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 600000.00,
+                "investing_cash_flow": -250000.00,
+                "financing_cash_flow": 120000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-15",
+                "headline": "Maruti Thinking to launch its EV cars production in 2025",
+                "link": "https://example.com/maruti-ev-car-project"
+              }
+            ]
+          },
+          {
+            "symbol": "HEROMOTO",
+            "company_name": "Hero MotoCorp Ltd",
+            "industry": "Automobile",
+            "sector": "Manufacturing",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 3200.00,
+              "opening_price": 3150.00,
+              "day_high": 3250.00,
+              "day_low": 3125.00,
+              "previous_close": 3150.00,
+              "market_cap": 640000.00,
+              "pe_ratio": 19.50,
+              "dividend_yield": 2.10,
+              "earnings_per_share": 165.00,
+              "volume": 8000000,
+              "avg_volume": 8500000,
+              "beta": 0.90,
+              "52_week_high": 3400.00,
+              "52_week_low": 2950.00,
+              "year_to_date_return": 6.0,
+              "analyst_ratings": {
+                "strong_buy": 15,
+                "buy": 8,
+                "hold": 4,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 750000.00,
+                "operating_expense": 550000.00,
+                "operating_profit": 200000.00,
+                "other_income": 20000.00,
+                "depreciation_and_amortization": 40000.00,
+                "interest": 50000.00,
+                "profit_before_tax": 180000.00,
+                "tax": 36000.00,
+                "net_profit": 144000.00
+              },
+              "balance_sheet": {
+                "total_assets": 4000000.00,
+                "total_liabilities": 2000000.00,
+                "shareholder_equity": 2000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 300000.00,
+                "investing_cash_flow": -150000.00,
+                "financing_cash_flow": 50000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-12",
+              "headline": "Heromoto Reports Increased Sales in Q3",
+              "link": "https://example.com/heromoto-q3-sales"
+              }
+            ]
+          },
+          {
+            "symbol": "BAJAJAUTO",
+            "company_name": "Bajaj Auto Ltd",
+            "industry": "Automobile",
+            "sector": "Manufacturing",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 4800.00,
+              "opening_price": 4750.00,
+              "day_high": 4900.00,
+              "day_low": 4700.00,
+              "previous_close": 4750.00,
+              "market_cap": 144000.00,
+              "pe_ratio": 22.00,
+              "dividend_yield": 1.50,
+              "earnings_per_share": 218.00,
+              "volume": 7000000,
+              "avg_volume": 6800000,
+              "beta": 1.00,
+              "52_week_high": 5000.00,
+              "52_week_low": 4200.00,
+              "year_to_date_return": 8.0,
+              "analyst_ratings": {
+                "strong_buy": 12,
+                "buy": 9,
+                "hold": 6,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 900000.00,
+                "operating_expense": 650000.00,
+                "operating_profit": 250000.00,
+                "other_income": 25000.00,
+                "depreciation_and_amortization": 45000.00,
+                "interest": 30000.00,
+                "profit_before_tax": 230000.00,
+                "tax": 46000.00,
+                "net_profit": 184000.00
+              },
+              "balance_sheet": {
+                "total_assets": 5000000.00,
+                "total_liabilities": 2400000.00,
+                "shareholder_equity": 2600000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 350000.00,
+                "investing_cash_flow": -180000.00,
+                "financing_cash_flow": 60000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-06",
+              "headline": "Bajaj Auto Introduces New Electric Scooter",
+              "link": "https://example.com/bajaj-auto-electric-scooter"
+              }
+            ]
+          },
+          {
+            "symbol": "HUL",
+            "company_name": "Hindustan Unilever Ltd",
+            "industry": "FMCG",
+            "sector": "Consumer Goods",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 2600.00,
+              "opening_price": 2550.00,
+              "day_high": 2650.00,
+              "day_low": 2540.00,
+              "previous_close": 2550.00,
+              "market_cap": 562000.00,
+              "pe_ratio": 60.00,
+              "dividend_yield": 1.10,
+              "earnings_per_share": 43.33,
+              "volume": 12000000,
+              "avg_volume": 10000000,
+              "beta": 0.70,
+              "52_week_high": 2750.00,
+              "52_week_low": 2350.00,
+              "year_to_date_return": 7.5,
+              "analyst_ratings": {
+                "strong_buy": 18,
+                "buy": 10,
+                "hold": 4,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 1500000.00,
+                "operating_expense": 1200000.00,
+                "operating_profit": 300000.00,
+                "other_income": 40000.00,
+                "depreciation_and_amortization": 35000.00,
+                "interest": 20000.00,
+                "profit_before_tax": 305000.00,
+                "tax": 61000.00,
+                "net_profit": 244000.00
+              },
+              "balance_sheet": {
+                "total_assets": 6000000.00,
+                "total_liabilities": 2200000.00,
+                "shareholder_equity": 3800000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 420000.00,
+                "investing_cash_flow": -190000.00,
+                "financing_cash_flow": 70000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-08",
+              "headline": "HUL's Sustainable Initiatives Lead to Record Profits",
+              "link": "https://example.com/hul-sustainable-initiatives"
+              }
+            ]
+          },
+          {
+            "symbol": "HPCL",
+            "company_name": "Hindustan Petroleum Corporation Ltd",
+            "industry": "Energy",
+            "sector": "Oil & Gas",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 290.00,
+              "opening_price": 285.00,
+              "day_high": 295.00,
+              "day_low": 280.00,
+              "previous_close": 285.00,
+              "market_cap": 440000.00,
+              "pe_ratio": 8.50,
+              "dividend_yield": 6.00,
+              "earnings_per_share": 34.00,
+              "volume": 18000000,
+              "avg_volume": 17000000,
+              "beta": 1.20,
+              "52_week_high": 310.00,
+              "52_week_low": 250.00,
+              "year_to_date_return": 5.0,
+              "analyst_ratings": {
+                "strong_buy": 12,
+                "buy": 10,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 2000000.00,
+                "operating_expense": 1700000.00,
+                "operating_profit": 300000.00,
+                "other_income": 45000.00,
+                "depreciation_and_amortization": 80000.00,
+                "interest": 70000.00,
+                "profit_before_tax": 195000.00,
+                "tax": 39000.00,
+                "net_profit": 156000.00
+              },
+              "balance_sheet": {
+                "total_assets": 10000000.00,
+                "total_liabilities": 7000000.00,
+                "shareholder_equity": 3000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 600000.00,
+                "investing_cash_flow": -200000.00,
+                "financing_cash_flow": 100000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-09",
+              "headline": "HPCL Announces Expansion Plans in Southern India",
+              "link": "https://example.com/hpcl-expansion-southern-india"
+              }
+            ]
+          },
+          {
+            "symbol": "CDSL",
+            "company_name": "Central Depository Services (India) Ltd",
+            "industry": "Financial Services",
+            "sector": "Depositories",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 1500.00,
+              "opening_price": 1480.00,
+              "day_high": 1520.00,
+              "day_low": 1470.00,
+              "previous_close": 1480.00,
+              "market_cap": 80000.00,
+              "pe_ratio": 38.00,
+              "dividend_yield": 0.80,
+              "earnings_per_share": 39.47,
+              "volume": 6000000,
+              "avg_volume": 5500000,
+              "beta": 1.10,
+              "52_week_high": 1600.00,
+              "52_week_low": 1350.00,
+              "year_to_date_return": 9.5,
+              "analyst_ratings": {
+                "strong_buy": 10,
+                "buy": 6,
+                "hold": 3,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 500000.00,
+                "operating_expense": 350000.00,
+                "operating_profit": 150000.00,
+                "other_income": 30000.00,
+                "depreciation_and_amortization": 25000.00,
+                "interest": 10000.00,
+                "profit_before_tax": 155000.00,
+                "tax": 31000.00,
+                "net_profit": 124000.00
+              },
+              "balance_sheet": {
+                "total_assets": 2000000.00,
+                "total_liabilities": 1000000.00,
+                "shareholder_equity": 1000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 180000.00,
+                "investing_cash_flow": -90000.00,
+                "financing_cash_flow": 20000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-01",
+              "headline": "CDSL Reports Strong Growth in Client Registrations",
+              "link": "https://example.com/cdsl-client-registrations"
+              }
+            ]
+          },
+          {
+            "symbol": "TATAMOTORS",
+            "company_name": "Tata Motors Ltd",
+            "industry": "Automobile",
+            "sector": "Manufacturing",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 450.00,
+              "opening_price": 445.00,
+              "day_high": 460.00,
+              "day_low": 440.00,
+              "previous_close": 445.00,
+              "market_cap": 1500000.00,
+              "pe_ratio": 30.00,
+              "dividend_yield": 0.50,
+              "earnings_per_share": 15.00,
+              "volume": 25000000,
+              "avg_volume": 23000000,
+              "beta": 1.30,
+              "52_week_high": 480.00,
+              "52_week_low": 400.00,
+              "year_to_date_return": 12.0,
+              "analyst_ratings": {
+                "strong_buy": 22,
+                "buy": 16,
+                "hold": 8,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 3000000.00,
+                "operating_expense": 2400000.00,
+                "operating_profit": 600000.00,
+                "other_income": 70000.00,
+                "depreciation_and_amortization": 90000.00,
+                "interest": 120000.00,
+                "profit_before_tax": 580000.00,
+                "tax": 116000.00,
+                "net_profit": 464000.00
+              },
+              "balance_sheet": {
+                "total_assets": 15000000.00,
+                "total_liabilities": 10000000.00,
+                "shareholder_equity": 5000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 800000.00,
+                "investing_cash_flow": -300000.00,
+                "financing_cash_flow": 150000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-03",
+              "headline": "Tata Motors Launches Next-Gen Electric Vehicle",
+              "link": "https://example.com/tata-motors-electric-vehicle"
+              }
+            ]
+          },
+          {
+            "symbol": "M&M",
+            "company_name": "Mahindra & Mahindra Ltd",
+            "industry": "Automobile",
+            "sector": "Manufacturing",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 1450.00,
+              "opening_price": 1440.00,
+              "day_high": 1470.00,
+              "day_low": 1430.00,
+              "previous_close": 1440.00,
+              "market_cap": 1800000.00,
+              "pe_ratio": 25.00,
+              "dividend_yield": 1.20,
+              "earnings_per_share": 58.00,
+              "volume": 12000000,
+              "avg_volume": 11000000,
+              "beta": 1.15,
+              "52_week_high": 1550.00,
+              "52_week_low": 1280.00,
+              "year_to_date_return": 10.5,
+              "analyst_ratings": {
+                "strong_buy": 20,
+                "buy": 15,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 2200000.00,
+                "operating_expense": 1700000.00,
+                "operating_profit": 500000.00,
+                "other_income": 65000.00,
+                "depreciation_and_amortization": 85000.00,
+                "interest": 70000.00,
+                "profit_before_tax": 510000.00,
+                "tax": 102000.00,
+                "net_profit": 408000.00
+              },
+              "balance_sheet": {
+                "total_assets": 12000000.00,
+                "total_liabilities": 6500000.00,
+                "shareholder_equity": 5500000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 650000.00,
+                "investing_cash_flow": -250000.00,
+                "financing_cash_flow": 100000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-07",
+              "headline": "M&M's New SUV Model Receives Positive Reviews",
+              "link": "https://example.com/mm-new-suv-reviews"
+              }
+            ]
+          },
+          {
+            "symbol": "SBICARD",
+            "company_name": "SBI Cards and Payment Services Ltd",
+            "industry": "Financial Services",
+            "sector": "Banking",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 800.00,
+              "opening_price": 790.00,
+              "day_high": 810.00,
+              "day_low": 780.00,
+              "previous_close": 790.00,
+              "market_cap": 750000.00,
+              "pe_ratio": 28.00,
+              "dividend_yield": 1.50,
+              "earnings_per_share": 28.57,
+              "volume": 15000000,
+              "avg_volume": 13000000,
+              "beta": 1.00,
+              "52_week_high": 850.00,
+              "52_week_low": 720.00,
+              "year_to_date_return": 7.0,
+              "analyst_ratings": {
+                "strong_buy": 18,
+                "buy": 10,
+                "hold": 4,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 1800000.00,
+                "operating_expense": 1200000.00,
+                "operating_profit": 600000.00,
+                "other_income": 50000.00,
+                "depreciation_and_amortization": 45000.00,
+                "interest": 65000.00,
+                "profit_before_tax": 540000.00,
+                "tax": 108000.00,
+                "net_profit": 432000.00
+              },
+              "balance_sheet": {
+                "total_assets": 9000000.00,
+                "total_liabilities": 6000000.00,
+                "shareholder_equity": 3000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 550000.00,
+                "investing_cash_flow": -200000.00,
+                "financing_cash_flow": 120000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-04",
+              "headline": "SBI Card Expands Merchant Network to Boost Digital Payments",
+              "link": "https://example.com/sbi-card-merchant-network"
+              }
+            ]
+          },
+          {
+            "symbol": "SRF",
+            "company_name": "SRF Ltd",
+            "industry": "Chemicals",
+            "sector": "Manufacturing",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 8400.00,
+              "opening_price": 8350.00,
+              "day_high": 8500.00,
+              "day_low": 8300.00,
+              "previous_close": 8350.00,
+              "market_cap": 240000.00,
+              "pe_ratio": 34.00,
+              "dividend_yield": 0.90,
+              "earnings_per_share": 247.05,
+              "volume": 2000000,
+              "avg_volume": 1900000,
+              "beta": 1.05,
+              "52_week_high": 8800.00,
+              "52_week_low": 7500.00,
+              "year_to_date_return": 11.0,
+              "analyst_ratings": {
+                "strong_buy": 14,
+                "buy": 9,
+                "hold": 4,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 3200000.00,
+                "operating_expense": 2500000.00,
+                "operating_profit": 700000.00,
+                "other_income": 60000.00,
+                "depreciation_and_amortization": 100000.00,
+                "interest": 95000.00,
+                "profit_before_tax": 665000.00,
+                "tax": 133000.00,
+                "net_profit": 532000.00
+              },
+              "balance_sheet": {
+                "total_assets": 13000000.00,
+                "total_liabilities": 7500000.00,
+                "shareholder_equity": 5500000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 850000.00,
+                "investing_cash_flow": -400000.00,
+                "financing_cash_flow": 180000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-02",
+              "headline": "SRF Invests in Green Chemistry Initiatives",
+              "link": "https://example.com/srf-green-chemistry"
+              }
+            ]
+          },
+          {
+            "symbol": "WIPRO",
+            "company_name": "Wipro Ltd",
+            "industry": "IT Services",
+            "sector": "Technology",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 420.00,
+              "opening_price": 415.00,
+              "day_high": 425.00,
+              "day_low": 410.00,
+              "previous_close": 415.00,
+              "market_cap": 2300000.00,
+              "pe_ratio": 18.00,
+              "dividend_yield": 2.00,
+              "earnings_per_share": 23.33,
+              "volume": 18000000,
+              "avg_volume": 16000000,
+              "beta": 0.90,
+              "52_week_high": 450.00,
+              "52_week_low": 370.00,
+              "year_to_date_return": 5.8,
+              "analyst_ratings": {
+                "strong_buy": 12,
+                "buy": 8,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 2900000.00,
+                "operating_expense": 2200000.00,
+                "operating_profit": 700000.00,
+                "other_income": 80000.00,
+                "depreciation_and_amortization": 60000.00,
+                "interest": 50000.00,
+                "profit_before_tax": 670000.00,
+                "tax": 134000.00,
+                "net_profit": 536000.00
+              },
+              "balance_sheet": {
+                "total_assets": 12000000.00,
+                "total_liabilities": 6000000.00,
+                "shareholder_equity": 6000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 700000.00,
+                "investing_cash_flow": -300000.00,
+                "financing_cash_flow": 150000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-10",
+              "headline": "Wipro Partners with Tech Giants for Cloud Solutions",
+              "link": "https://example.com/wipro-cloud-solutions"
+              }
+            ]
+          },
+          {
+            "symbol": "UPL",
+            "company_name": "UPL Ltd",
+            "industry": "Chemicals",
+            "sector": "Agriculture",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 640.00,
+              "opening_price": 635.00,
+              "day_high": 650.00,
+              "day_low": 630.00,
+              "previous_close": 635.00,
+              "market_cap": 500000.00,
+              "pe_ratio": 16.00,
+              "dividend_yield": 2.20,
+              "earnings_per_share": 40.00,
+              "volume": 10000000,
+              "avg_volume": 9500000,
+              "beta": 1.10,
+              "52_week_high": 700.00,
+              "52_week_low": 580.00,
+              "year_to_date_return": 7.2,
+              "analyst_ratings": {
+                "strong_buy": 10,
+                "buy": 8,
+                "hold": 4,
+                "sell": 1,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 1600000.00,
+                "operating_expense": 1250000.00,
+                "operating_profit": 350000.00,
+                "other_income": 40000.00,
+                "depreciation_and_amortization": 50000.00,
+                "interest": 60000.00,
+                "profit_before_tax": 330000.00,
+                "tax": 66000.00,
+                "net_profit": 264000.00
+              },
+              "balance_sheet": {
+                "total_assets": 5000000.00,
+                "total_liabilities": 3000000.00,
+                "shareholder_equity": 2000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 400000.00,
+                "investing_cash_flow": -150000.00,
+                "financing_cash_flow": 80000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-11",
+              "headline": "UPL Reports Increase in Agrochemical Sales",
+              "link": "https://example.com/upl-agrochemical-sales"
+              }
+            ]
+          },
+          {
+            "symbol": "ASIANPAINT",
+            "company_name": "Asian Paints Ltd",
+            "industry": "Paints",
+            "sector": "Consumer Goods",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 3300.00,
+              "opening_price": 3280.00,
+              "day_high": 3350.00,
+              "day_low": 3250.00,
+              "previous_close": 3280.00,
+              "market_cap": 3100000.00,
+              "pe_ratio": 45.00,
+              "dividend_yield": 0.70,
+              "earnings_per_share": 73.33,
+              "volume": 7000000,
+              "avg_volume": 6500000,
+              "beta": 0.95,
+              "52_week_high": 3400.00,
+              "52_week_low": 2900.00,
+              "year_to_date_return": 6.8,
+              "analyst_ratings": {
+                "strong_buy": 18,
+                "buy": 10,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 4500000.00,
+                "operating_expense": 3300000.00,
+                "operating_profit": 1200000.00,
+                "other_income": 100000.00,
+                "depreciation_and_amortization": 80000.00,
+                "interest": 40000.00,
+                "profit_before_tax": 1280000.00,
+                "tax": 256000.00,
+                "net_profit": 1024000.00
+              },
+              "balance_sheet": {
+                "total_assets": 15000000.00,
+                "total_liabilities": 7500000.00,
+                "shareholder_equity": 7500000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1300000.00,
+                "investing_cash_flow": -500000.00,
+                "financing_cash_flow": 200000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-05",
+              "headline": "Asian Paints Launches New Eco-Friendly Paint Line",
+              "link": "https://example.com/asian-paints-eco-friendly-paint"
+              }
+            ]
+          },
+          {
+            "symbol": "ADANIPORT",
+            "company_name": "Adani Ports and SEZ Ltd",
+            "industry": "Logistics",
+            "sector": "Infrastructure",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 750.00,
+              "opening_price": 740.00,
+              "day_high": 760.00,
+              "day_low": 730.00,
+              "previous_close": 740.00,
+              "market_cap": 1800000.00,
+              "pe_ratio": 20.00,
+              "dividend_yield": 1.40,
+              "earnings_per_share": 37.50,
+              "volume": 15000000,
+              "avg_volume": 14000000,
+              "beta": 1.25,
+              "52_week_high": 820.00,
+              "52_week_low": 680.00,
+              "year_to_date_return": 9.0,
+              "analyst_ratings": {
+                "strong_buy": 15,
+                "buy": 12,
+                "hold": 5,
+                "sell": 3,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 5000000.00,
+                "operating_expense": 3700000.00,
+                "operating_profit": 1300000.00,
+                "other_income": 120000.00,
+                "depreciation_and_amortization": 95000.00,
+                "interest": 150000.00,
+                "profit_before_tax": 1275000.00,
+                "tax": 255000.00,
+                "net_profit": 1020000.00
+              },
+              "balance_sheet": {
+                "total_assets": 18000000.00,
+                "total_liabilities": 10000000.00,
+                "shareholder_equity": 8000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1400000.00,
+                "investing_cash_flow": -600000.00,
+                "financing_cash_flow": 300000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-08",
+              "headline": "Adani Ports Achieves Milestone in Container Handling",
+              "link": "https://example.com/adani-ports-container-handling"
+              }
+            ]
+          },
+          {
+            "symbol": "BPCL",
+            "company_name": "Bharat Petroleum Corporation Ltd",
+            "industry": "Oil & Gas",
+            "sector": "Energy",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 400.00,
+              "opening_price": 395.00,
+              "day_high": 410.00,
+              "day_low": 390.00,
+              "previous_close": 395.00,
+              "market_cap": 950000.00,
+              "pe_ratio": 10.00,
+              "dividend_yield": 4.50,
+              "earnings_per_share": 40.00,
+              "volume": 8000000,
+              "avg_volume": 7800000,
+              "beta": 1.20,
+              "52_week_high": 430.00,
+              "52_week_low": 350.00,
+              "year_to_date_return": 5.5,
+              "analyst_ratings": {
+                "strong_buy": 12,
+                "buy": 9,
+                "hold": 4,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 10000000.00,
+                "operating_expense": 8500000.00,
+                "operating_profit": 1500000.00,
+                "other_income": 120000.00,
+                "depreciation_and_amortization": 180000.00,
+                "interest": 100000.00,
+                "profit_before_tax": 1520000.00,
+                "tax": 304000.00,
+                "net_profit": 1216000.00
+              },
+              "balance_sheet": {
+                "total_assets": 7000000.00,
+                "total_liabilities": 4000000.00,
+                "shareholder_equity": 3000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1500000.00,
+                "investing_cash_flow": -500000.00,
+                "financing_cash_flow": 300000.00
+              }
+            },
+            "news": [
+              {"date": "2024-10-02",
+              "headline": "BPCL Unveils Plans for New Biofuel Plant",
+              "link": "https://example.com/bpcl-biofuel-plant"
+              }
+            ]
+          },
+          {
+            "symbol": "GAIL",
+            "company_name": "GAIL (India) Ltd",
+            "industry": "Natural Gas",
+            "sector": "Energy",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 120.00,
+              "opening_price": 118.00,
+              "day_high": 125.00,
+              "day_low": 115.00,
+              "previous_close": 118.00,
+              "market_cap": 800000.00,
+              "pe_ratio": 8.50,
+              "dividend_yield": 3.20,
+              "earnings_per_share": 14.12,
+              "volume": 12000000,
+              "avg_volume": 11000000,
+              "beta": 1.10,
+              "52_week_high": 135.00,
+              "52_week_low": 95.00,
+              "year_to_date_return": 8.0,
+              "analyst_ratings": {
+                "strong_buy": 10,
+                "buy": 8,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 4500000.00,
+                "operating_expense": 3700000.00,
+                "operating_profit": 800000.00,
+                "other_income": 75000.00,
+                "depreciation_and_amortization": 85000.00,
+                "interest": 50000.00,
+                "profit_before_tax": 770000.00,
+                "tax": 154000.00,
+                "net_profit": 616000.00
+              },
+              "balance_sheet": {
+                "total_assets": 10000000.00,
+                "total_liabilities": 5500000.00,
+                "shareholder_equity": 4500000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 900000.00,
+                "investing_cash_flow": -300000.00,
+                "financing_cash_flow": 200000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-06",
+              "headline": "GAIL Expands Pipeline Network to Enhance Connectivity",
+              "link": "https://example.com/gail-pipeline-expansion"
+              }
+            ]
+          },
+          {
+            "symbol": "HAL",
+            "company_name": "Hindustan Aeronautics Ltd",
+            "industry": "Aerospace",
+            "sector": "Defense",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 2300.00,
+              "opening_price": 2250.00,
+              "day_high": 2350.00,
+              "day_low": 2200.00,
+              "previous_close": 2250.00,
+              "market_cap": 8000000.00,
+              "pe_ratio": 22.00,
+              "dividend_yield": 1.80,
+              "earnings_per_share": 104.55,
+              "volume": 6000000,
+              "avg_volume": 5800000,
+              "beta": 1.05,
+              "52_week_high": 2400.00,
+              "52_week_low": 1900.00,
+              "year_to_date_return": 12.5,
+              "analyst_ratings": {
+                "strong_buy": 14,
+                "buy": 8,
+                "hold": 3,
+                "sell": 0,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 10000000.00,
+                "operating_expense": 7800000.00,
+                "operating_profit": 2200000.00,
+                "other_income": 180000.00,
+                "depreciation_and_amortization": 200000.00,
+                "interest": 100000.00,
+                "profit_before_tax": 2280000.00,
+                "tax": 456000.00,
+                "net_profit": 1824000.00
+              },
+              "balance_sheet": {
+                "total_assets": 20000000.00,
+                "total_liabilities": 11000000.00,
+                "shareholder_equity": 9000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 2100000.00,
+                "investing_cash_flow": -800000.00,
+                "financing_cash_flow": 500000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-03",
+              "headline": "HAL Secures Major Defense Contract",
+              "link": "https://example.com/hal-defense-contract"
+              }
+            ]
+          },
+          {
+            "symbol": "APOLLOHOSP",
+            "company_name": "Apollo Hospitals Enterprise Ltd",
+            "industry": "Healthcare",
+            "sector": "Hospitals & Diagnostics",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 5500.00,
+              "opening_price": 5450.00,
+              "day_high": 5600.00,
+              "day_low": 5400.00,
+              "previous_close": 5450.00,
+              "market_cap": 5000000.00,
+              "pe_ratio": 35.00,
+              "dividend_yield": 0.60,
+              "earnings_per_share": 157.14,
+              "volume": 4000000,
+              "avg_volume": 3500000,
+              "beta": 0.90,
+              "52_week_high": 5800.00,
+              "52_week_low": 4800.00,
+              "year_to_date_return": 7.5,
+              "analyst_ratings": {
+                "strong_buy": 20,
+                "buy": 12,
+                "hold": 4,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 15000000.00,
+                "operating_expense": 12000000.00,
+                "operating_profit": 3000000.00,
+                "other_income": 200000.00,
+                "depreciation_and_amortization": 300000.00,
+                "interest": 150000.00,
+                "profit_before_tax": 3050000.00,
+                "tax": 610000.00,
+                "net_profit": 2440000.00
+              },
+              "balance_sheet": {
+                "total_assets": 25000000.00,
+                "total_liabilities": 14000000.00,
+                "shareholder_equity": 11000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 2500000.00,
+                "investing_cash_flow": -1000000.00,
+                "financing_cash_flow": 600000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-09",
+              "headline": "Apollo Hospital Reports Growth in Telemedicine Services",
+              "link": "https://example.com/apollo-telemedicine-growth"
+              }
+            ]
+          },
+          {
+            "symbol": "HCLTECH",
+            "company_name": "HCL Technologies Ltd",
+            "industry": "IT Services",
+            "sector": "Technology",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 1200.00,
+              "opening_price": 1185.00,
+              "day_high": 1220.00,
+              "day_low": 1170.00,
+              "previous_close": 1180.00,
+              "market_cap": 4000000.00,
+              "pe_ratio": 22.50,
+              "dividend_yield": 1.10,
+              "earnings_per_share": 53.33,
+              "volume": 3000000,
+              "avg_volume": 2800000,
+              "beta": 1.10,
+              "52_week_high": 1300.00,
+              "52_week_low": 900.00,
+              "year_to_date_return": 4.0,
+              "analyst_ratings": {
+                "strong_buy": 15,
+                "buy": 10,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 5000000.00,
+                "operating_expense": 4000000.00,
+                "operating_profit": 1000000.00,
+                "other_income": 80000.00,
+                "depreciation_and_amortization": 100000.00,
+                "interest": 40000.00,
+                "profit_before_tax": 1040000.00,
+                "tax": 208000.00,
+                "net_profit": 832000.00
+              },
+              "balance_sheet": {
+                "total_assets": 12000000.00,
+                "total_liabilities": 7000000.00,
+                "shareholder_equity": 5000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 900000.00,
+                "investing_cash_flow": -300000.00,
+                "financing_cash_flow": 200000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-04",
+              "headline": "HCL Tech Launches AI-Driven Services for Enterprises",
+              "link": "https://example.com/hcltech-ai-services"
+              }
+            ]
+          },
+          {
+            "symbol": "CIPLA",
+            "company_name": "Cipla Ltd",
+            "industry": "Pharmaceuticals",
+            "sector": "Healthcare",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 1050.00,
+              "opening_price": 1030.00,
+              "day_high": 1065.00,
+              "day_low": 1020.00,
+              "previous_close": 1025.00,
+              "market_cap": 8000000.00,
+              "pe_ratio": 20.00,
+              "dividend_yield": 2.00,
+              "earnings_per_share": 52.50,
+              "volume": 2000000,
+              "avg_volume": 2100000,
+              "beta": 0.95,
+              "52_week_high": 1150.00,
+              "52_week_low": 900.00,
+              "year_to_date_return": 5.0,
+              "analyst_ratings": {
+                "strong_buy": 12,
+                "buy": 8,
+                "hold": 5,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 6000000.00,
+                "operating_expense": 4800000.00,
+                "operating_profit": 1200000.00,
+                "other_income": 150000.00,
+                "depreciation_and_amortization": 200000.00,
+                "interest": 70000.00,
+                "profit_before_tax": 1245000.00,
+                "tax": 249000.00,
+                "net_profit": 996000.00
+              },
+              "balance_sheet": {
+                "total_assets": 14000000.00,
+                "total_liabilities": 9000000.00,
+                "shareholder_equity": 5000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1100000.00,
+                "investing_cash_flow": -400000.00,
+                "financing_cash_flow": 300000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-01",
+              "headline": "Cipla Launches New Oncology Drug",
+              "link": "https://example.com/cipla-oncology-drug"
+              }
+            ]
+          },
+          {
+            "symbol": "BRITANNIA",
+            "company_name": "Britannia Industries Ltd",
+            "industry": "Food & Beverage",
+            "sector": "Consumer Goods",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 4000.00,
+              "opening_price": 3950.00,
+              "day_high": 4050.00,
+              "day_low": 3900.00,
+              "previous_close": 3950.00,
+              "market_cap": 6000000.00,
+              "pe_ratio": 35.00,
+              "dividend_yield": 1.50,
+              "earnings_per_share": 114.29,
+              "volume": 500000,
+              "avg_volume": 480000,
+              "beta": 0.85,
+              "52_week_high": 4200.00,
+              "52_week_low": 3000.00,
+              "year_to_date_return": 6.0,
+              "analyst_ratings": {
+                "strong_buy": 9,
+                "buy": 10,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 7500000.00,
+                "operating_expense": 6000000.00,
+                "operating_profit": 1500000.00,
+                "other_income": 250000.00,
+                "depreciation_and_amortization": 300000.00,
+                "interest": 50000.00,
+                "profit_before_tax": 1675000.00,
+                "tax": 335000.00,
+                "net_profit": 1345000.00
+              },
+              "balance_sheet": {
+                "total_assets": 18000000.00,
+                "total_liabilities": 10000000.00,
+                "shareholder_equity": 8000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1400000.00,
+                "investing_cash_flow": -500000.00,
+                "financing_cash_flow": 400000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-03",
+              "headline": "Britannia Expands Distribution Network in Rural Areas",
+              "link": "https://example.com/britannia-distribution-rural"
+              }
+            ]
+          },
+          {
+            "symbol": "BHARTIARTL",
+            "company_name": "Bharti Airtel Ltd",
+            "industry": "Telecom",
+            "sector": "Telecommunications",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 700.00,
+              "opening_price": 680.00,
+              "day_high": 710.00,
+              "day_low": 670.00,
+              "previous_close": 685.00,
+              "market_cap": 3000000.00,
+              "pe_ratio": 40.00,
+              "dividend_yield": 0.50,
+              "earnings_per_share": 17.50,
+              "volume": 9000000,
+              "avg_volume": 9500000,
+              "beta": 1.20,
+              "52_week_high": 720.00,
+              "52_week_low": 550.00,
+              "year_to_date_return": 10.0,
+              "analyst_ratings": {
+                "strong_buy": 6,
+                "buy": 7,
+                "hold": 5,
+                "sell": 3,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 20000000.00,
+                "operating_expense": 15000000.00,
+                "operating_profit": 5000000.00,
+                "other_income": 400000.00,
+                "depreciation_and_amortization": 500000.00,
+                "interest": 600000.00,
+                "profit_before_tax": 4840000.00,
+                "tax": 968000.00,
+                "net_profit": 3872000.00
+              },
+              "balance_sheet": {
+                "total_assets": 60000000.00,
+                "total_liabilities": 40000000.00,
+                "shareholder_equity": 20000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 4500000.00,
+                "investing_cash_flow": -1500000.00,
+                "financing_cash_flow": 800000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-05",
+              "headline": "Bharti Airtel Introduces New Tariff Plans for Customers",
+              "link": "https://example.com/bharti-airtel-tariff-plans"
+              }
+            ]
+          },
+          {
+            "symbol": "SUNPHARMA",
+            "company_name": "Sun Pharmaceutical Industries Ltd",
+            "industry": "Pharmaceuticals",
+            "sector": "Healthcare",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 950.00,
+              "opening_price": 940.00,
+              "day_high": 965.00,
+              "day_low": 935.00,
+              "previous_close": 945.00,
+              "market_cap": 2500000.00,
+              "pe_ratio": 25.00,
+              "dividend_yield": 1.20,
+              "earnings_per_share": 38.00,
+              "volume": 1200000,
+              "avg_volume": 1150000,
+              "beta": 0.90,
+              "52_week_high": 1000.00,
+              "52_week_low": 750.00,
+              "year_to_date_return": 3.5,
+              "analyst_ratings": {
+                "strong_buy": 5,
+                "buy": 10,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 7000000.00,
+                "operating_expense": 5500000.00,
+                "operating_profit": 1500000.00,
+                "other_income": 200000.00,
+                "depreciation_and_amortization": 150000.00,
+                "interest": 90000.00,
+                "profit_before_tax": 1550000.00,
+                "tax": 310000.00,
+                "net_profit": 1240000.00
+              },
+              "balance_sheet": {
+                "total_assets": 18000000.00,
+                "total_liabilities": 11000000.00,
+                "shareholder_equity": 7000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1300000.00,
+                "investing_cash_flow": -500000.00,
+                "financing_cash_flow": 300000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-05",
+              "headline": "Sun Pharma Announces New Research Collaborations",
+              "link": "https://example.com/sunpharma-research-collaborations"
+              }
+            ]
+          },
+          {
+            "symbol": "ULTRATECHCO",
+            "company_name": "UltraTech Cement Ltd",
+            "industry": "Cement",
+            "sector": "Construction",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 7000.00,
+              "opening_price": 6900.00,
+              "day_high": 7100.00,
+              "day_low": 6850.00,
+              "previous_close": 6950.00,
+              "market_cap": 9500000.00,
+              "pe_ratio": 35.00,
+              "dividend_yield": 0.80,
+              "earnings_per_share": 200.00,
+              "volume": 500000,
+              "avg_volume": 450000,
+              "beta": 1.10,
+              "52_week_high": 7500.00,
+              "52_week_low": 5500.00,
+              "year_to_date_return": 7.0,
+              "analyst_ratings": {
+                "strong_buy": 12,
+                "buy": 8,
+                "hold": 5,
+                "sell": 3,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 12000000.00,
+                "operating_expense": 9500000.00,
+                "operating_profit": 2500000.00,
+                "other_income": 400000.00,
+                "depreciation_and_amortization": 300000.00,
+                "interest": 200000.00,
+                "profit_before_tax": 2900000.00,
+                "tax": 580000.00,
+                "net_profit": 2320000.00
+              },
+              "balance_sheet": {
+                "total_assets": 20000000.00,
+                "total_liabilities": 12000000.00,
+                "shareholder_equity": 8000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 2100000.00,
+                "investing_cash_flow": -700000.00,
+                "financing_cash_flow": 600000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-04",
+              "headline": "Ultratech Cement Secures Major Infrastructure Contract",
+              "link": "https://example.com/ultratech-infrastructure-contract"
+              }
+            ]
+          },
+          {
+            "symbol": "TITAN",
+            "company_name": "Titan Company Ltd",
+            "industry": "Consumer Durables",
+            "sector": "Consumer Goods",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 2900.00,
+              "opening_price": 2850.00,
+              "day_high": 2950.00,
+              "day_low": 2800.00,
+              "previous_close": 2875.00,
+              "market_cap": 2500000.00,
+              "pe_ratio": 60.00,
+              "dividend_yield": 0.60,
+              "earnings_per_share": 48.33,
+              "volume": 700000,
+              "avg_volume": 650000,
+              "beta": 0.95,
+              "52_week_high": 3000.00,
+              "52_week_low": 2200.00,
+              "year_to_date_return": 8.5,
+              "analyst_ratings": {
+                "strong_buy": 10,
+                "buy": 5,
+                "hold": 4,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 10000000.00,
+                "operating_expense": 7500000.00,
+                "operating_profit": 2500000.00,
+                "other_income": 300000.00,
+                "depreciation_and_amortization": 200000.00,
+                "interest": 100000.00,
+                "profit_before_tax": 2850000.00,
+                "tax": 570000.00,
+                "net_profit": 2280000.00
+              },
+              "balance_sheet": {
+                "total_assets": 12000000.00,
+                "total_liabilities": 6000000.00,
+                "shareholder_equity": 6000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1900000.00,
+                "investing_cash_flow": -800000.00,
+                "financing_cash_flow": 500000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-01",
+              "headline": "Titan Company Launches New Jewelry Collection",
+              "link": "https://example.com/titan-jewelry-collection"
+              }
+            ]
+          },
+          {
+            "symbol": "SBIN",
+            "company_name": "State Bank of India",
+            "industry": "Banking",
+            "sector": "Financial Services",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 650.00,
+              "opening_price": 640.00,
+              "day_high": 660.00,
+              "day_low": 630.00,
+              "previous_close": 645.00,
+              "market_cap": 3000000.00,
+              "pe_ratio": 15.00,
+              "dividend_yield": 3.00,
+              "earnings_per_share": 43.33,
+              "volume": 10000000,
+              "avg_volume": 9500000,
+              "beta": 1.20,
+              "52_week_high": 680.00,
+              "52_week_low": 500.00,
+              "year_to_date_return": 5.0,
+              "analyst_ratings": {
+                "strong_buy": 8,
+                "buy": 12,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 50000000.00,
+                "operating_expense": 40000000.00,
+                "operating_profit": 10000000.00,
+                "other_income": 1000000.00,
+                "depreciation_and_amortization": 500000.00,
+                "interest": 3000000.00,
+                "profit_before_tax": 10300000.00,
+                "tax": 2060000.00,
+                "net_profit": 8240000.00
+              },
+              "balance_sheet": {
+                "total_assets": 500000000.00,
+                "total_liabilities": 400000000.00,
+                "shareholder_equity": 100000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 10000000.00,
+                "investing_cash_flow": -2000000.00,
+                "financing_cash_flow": 1000000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-02",
+              "headline": "SBI Partners with Fintech Firms for Digital Growth",
+              "link": "https://example.com/sbi-fintech-partnerships"
+              }
+            ]
+          },
+          {
+            "symbol": "ICICIBANK",
+            "company_name": "ICICI Bank Ltd",
+            "industry": "Banking",
+            "sector": "Financial Services",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 950.00,
+              "opening_price": 940.00,
+              "day_high": 960.00,
+              "day_low": 930.00,
+              "previous_close": 945.00,
+              "market_cap": 2000000.00,
+              "pe_ratio": 20.00,
+              "dividend_yield": 1.50,
+              "earnings_per_share": 47.50,
+              "volume": 7000000,
+              "avg_volume": 6000000,
+              "beta": 1.00,
+              "52_week_high": 980.00,
+              "52_week_low": 800.00,
+              "year_to_date_return": 6.0,
+              "analyst_ratings": {
+                "strong_buy": 10,
+                "buy": 15,
+                "hold": 8,
+                "sell": 4,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 50000000.00,
+                "operating_expense": 35000000.00,
+                "operating_profit": 15000000.00,
+                "other_income": 500000.00,
+                "depreciation_and_amortization": 200000.00,
+                "interest": 4000000.00,
+                "profit_before_tax": 10600000.00,
+                "tax": 2120000.00,
+                "net_profit": 8480000.00
+              },
+              "balance_sheet": {
+                "total_assets": 450000000.00,
+                "total_liabilities": 360000000.00,
+                "shareholder_equity": 90000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 12000000.00,
+                "investing_cash_flow": -3000000.00,
+                "financing_cash_flow": 2500000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-03",
+              "headline": "ICICI Bank's New Mobile App Features Launched",
+              "link": "https://example.com/icici-bank-mobile-app"
+              }
+            ]
+          },
+          {
+            "symbol": "AXISBANK",
+            "company_name": "Axis Bank Ltd",
+            "industry": "Banking",
+            "sector": "Financial Services",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 950.00,
+              "opening_price": 940.00,
+              "day_high": 960.00,
+              "day_low": 930.00,
+              "previous_close": 945.00,
+              "market_cap": 1500000.00,
+              "pe_ratio": 18.00,
+              "dividend_yield": 2.00,
+              "earnings_per_share": 52.78,
+              "volume": 5000000,
+              "avg_volume": 4500000,
+              "beta": 0.95,
+              "52_week_high": 975.00,
+              "52_week_low": 700.00,
+              "year_to_date_return": 4.0,
+              "analyst_ratings": {
+                "strong_buy": 7,
+                "buy": 11,
+                "hold": 8,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 40000000.00,
+                "operating_expense": 30000000.00,
+                "operating_profit": 10000000.00,
+                "other_income": 200000.00,
+                "depreciation_and_amortization": 100000.00,
+                "interest": 3000000.00,
+                "profit_before_tax": 9700000.00,
+                "tax": 1940000.00,
+                "net_profit": 7760000.00
+              },
+              "balance_sheet": {
+                "total_assets": 400000000.00,
+                "total_liabilities": 320000000.00,
+                "shareholder_equity": 80000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 8000000.00,
+                "investing_cash_flow": -2500000.00,
+                "financing_cash_flow": 1000000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-04",
+              "headline": "Axis Bank Strengthens Retail Banking Services",
+              "link": "https://example.com/axis-bank-retail-services"
+              }
+            ]
+          },
+          {
+            "symbol": "TATACHEMICAL",
+            "company_name": "Tata Chemicals Ltd",
+            "industry": "Chemicals",
+            "sector": "Basic Materials",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 850.00,
+              "opening_price": 840.00,
+              "day_high": 860.00,
+              "day_low": 835.00,
+              "previous_close": 845.00,
+              "market_cap": 2000000.00,
+              "pe_ratio": 22.00,
+              "dividend_yield": 1.50,
+              "earnings_per_share": 38.64,
+              "volume": 300000,
+              "avg_volume": 280000,
+              "beta": 1.05,
+              "52_week_high": 900.00,
+              "52_week_low": 700.00,
+              "year_to_date_return": 5.0,
+              "analyst_ratings": {
+                "strong_buy": 6,
+                "buy": 9,
+                "hold": 4,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 8000000.00,
+                "operating_expense": 6000000.00,
+                "operating_profit": 2000000.00,
+                "other_income": 250000.00,
+                "depreciation_and_amortization": 100000.00,
+                "interest": 150000.00,
+                "profit_before_tax": 2150000.00,
+                "tax": 430000.00,
+                "net_profit": 1720000.00
+              },
+              "balance_sheet": {
+                "total_assets": 12000000.00,
+                "total_liabilities": 7000000.00,
+                "shareholder_equity": 5000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1800000.00,
+                "investing_cash_flow": -400000.00,
+                "financing_cash_flow": 300000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-05",
+              "headline": "Tata Chemicals Collaborates with Startups for Innovation",
+              "link": "https://example.com/tata-chemicals-innovation"
+              }
+            ]
+          },
+          {
+            "symbol": "TATASTEEL",
+            "company_name": "Tata Steel Ltd",
+            "industry": "Metals",
+            "sector": "Basic Materials",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 1200.00,
+              "opening_price": 1180.00,
+              "day_high": 1225.00,
+              "day_low": 1175.00,
+              "previous_close": 1190.00,
+              "market_cap": 10000000.00,
+              "pe_ratio": 18.00,
+              "dividend_yield": 2.50,
+              "earnings_per_share": 66.67,
+              "volume": 8000000,
+              "avg_volume": 7800000,
+              "beta": 1.15,
+              "52_week_high": 1250.00,
+              "52_week_low": 900.00,
+              "year_to_date_return": 10.0,
+              "analyst_ratings": {
+                "strong_buy": 8,
+                "buy": 12,
+                "hold": 5,
+                "sell": 3,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 35000000.00,
+                "operating_expense": 28000000.00,
+                "operating_profit": 7000000.00,
+                "other_income": 600000.00,
+                "depreciation_and_amortization": 500000.00,
+                "interest": 1500000.00,
+                "profit_before_tax": 6100000.00,
+                "tax": 1220000.00,
+                "net_profit": 4880000.00
+              },
+              "balance_sheet": {
+                "total_assets": 50000000.00,
+                "total_liabilities": 30000000.00,
+                "shareholder_equity": 20000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 4500000.00,
+                "investing_cash_flow": -1500000.00,
+                "financing_cash_flow": 2000000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-06",
+              "headline": "Tata Steel Launches New Eco-Friendly Products",
+              "link": "https://example.com/tata-steel-eco-friendly-products"
+              }
+            ]
+          },
+          {
+            "symbol": "HINDALCO",
+            "company_name": "Hindalco Industries Ltd",
+            "industry": "Metals",
+            "sector": "Basic Materials",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 450.00,
+              "opening_price": 440.00,
+              "day_high": 455.00,
+              "day_low": 435.00,
+              "previous_close": 445.00,
+              "market_cap": 1000000.00,
+              "pe_ratio": 20.00,
+              "dividend_yield": 1.00,
+              "earnings_per_share": 22.50,
+              "volume": 6000000,
+              "avg_volume": 5800000,
+              "beta": 1.00,
+              "52_week_high": 475.00,
+              "52_week_low": 350.00,
+              "year_to_date_return": 4.0,
+              "analyst_ratings": {
+                "strong_buy": 7,
+                "buy": 10,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 20000000.00,
+                "operating_expense": 15000000.00,
+                "operating_profit": 5000000.00,
+                "other_income": 300000.00,
+                "depreciation_and_amortization": 200000.00,
+                "interest": 1000000.00,
+                "profit_before_tax": 4700000.00,
+                "tax": 940000.00,
+                "net_profit": 3760000.00
+              },
+              "balance_sheet": {
+                "total_assets": 30000000.00,
+                "total_liabilities": 20000000.00,
+                "shareholder_equity": 10000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 3000000.00,
+                "investing_cash_flow": -700000.00,
+                "financing_cash_flow": 500000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-07",
+              "headline": "Hindalco Secures International Supply Contracts",
+              "link": "https://example.com/hindalco-supply-contracts"
+              }
+            ]
+          },
+          {
+            "symbol": "COALINDIA",
+            "company_name": "Coal India Ltd",
+            "industry": "Energy",
+            "sector": "Utilities",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 200.00,
+              "opening_price": 195.00,
+              "day_high": 205.00,
+              "day_low": 190.00,
+              "previous_close": 198.00,
+              "market_cap": 1200000.00,
+              "pe_ratio": 15.00,
+              "dividend_yield": 8.00,
+              "earnings_per_share": 13.33,
+              "volume": 4000000,
+              "avg_volume": 3800000,
+              "beta": 0.85,
+              "52_week_high": 220.00,
+              "52_week_low": 160.00,
+              "year_to_date_return": 2.0,
+              "analyst_ratings": {
+                "strong_buy": 5,
+                "buy": 7,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 30000000.00,
+                "operating_expense": 21000000.00,
+                "operating_profit": 9000000.00,
+                "other_income": 400000.00,
+                "depreciation_and_amortization": 600000.00,
+                "interest": 300000.00,
+                "profit_before_tax": 9300000.00,
+                "tax": 1860000.00,
+                "net_profit": 7440000.00
+              },
+              "balance_sheet": {
+                "total_assets": 50000000.00,
+                "total_liabilities": 30000000.00,
+                "shareholder_equity": 20000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 4000000.00,
+                "investing_cash_flow": -1000000.00,
+                "financing_cash_flow": 200000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-08",
+              "headline": "Coal India Expands Operations in New Regions",
+              "link": "https://example.com/coal-india-expansion"
+              }
+            ]
+          },
+          {
+            "symbol": "SHRIRAMFIN",
+            "company_name": "Shriram Finance Ltd",
+            "industry": "Financial Services",
+            "sector": "Financial Services",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 1400.00,
+              "opening_price": 1380.00,
+              "day_high": 1420.00,
+              "day_low": 1360.00,
+              "previous_close": 1390.00,
+              "market_cap": 1500000.00,
+              "pe_ratio": 25.00,
+              "dividend_yield": 1.20,
+              "earnings_per_share": 56.00,
+              "volume": 1500000,
+              "avg_volume": 1450000,
+              "beta": 1.10,
+              "52_week_high": 1500.00,
+              "52_week_low": 1000.00,
+              "year_to_date_return": 7.0,
+              "analyst_ratings": {
+                "strong_buy": 10,
+                "buy": 8,
+                "hold": 4,
+                "sell": 3,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 12000000.00,
+                "operating_expense": 9000000.00,
+                "operating_profit": 3000000.00,
+                "other_income": 200000.00,
+                "depreciation_and_amortization": 300000.00,
+                "interest": 1000000.00,
+                "profit_before_tax": 2200000.00,
+                "tax": 440000.00,
+                "net_profit": 1760000.00
+              },
+              "balance_sheet": {
+                "total_assets": 20000000.00,
+                "total_liabilities": 12000000.00,
+                "shareholder_equity": 8000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1700000.00,
+                "investing_cash_flow": -500000.00,
+                "financing_cash_flow": 800000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-09",
+              "headline": "Shriram Finance Launches New Financial Products",
+              "link": "https://example.com/shriram-finance-new-products"
+              }
+            ]
+          },
+          {
+            "symbol": "TVSMOTOR",
+            "company_name": "TVS Motor Company Ltd",
+            "industry": "Automobile",
+            "sector": "Consumer Goods",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 1200.00,
+              "opening_price": 1150.00,
+              "day_high": 1225.00,
+              "day_low": 1145.00,
+              "previous_close": 1180.00,
+              "market_cap": 500000.00,
+              "pe_ratio": 22.00,
+              "dividend_yield": 1.80,
+              "earnings_per_share": 54.55,
+              "volume": 2000000,
+              "avg_volume": 1900000,
+              "beta": 1.10,
+              "52_week_high": 1250.00,
+              "52_week_low": 950.00,
+              "year_to_date_return": 8.0,
+              "analyst_ratings": {
+                "strong_buy": 9,
+                "buy": 10,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 20000000.00,
+                "operating_expense": 15000000.00,
+                "operating_profit": 5000000.00,
+                "other_income": 300000.00,
+                "depreciation_and_amortization": 500000.00,
+                "interest": 800000.00,
+                "profit_before_tax": 4200000.00,
+                "tax": 840000.00,
+                "net_profit": 3360000.00
+              },
+              "balance_sheet": {
+                "total_assets": 15000000.00,
+                "total_liabilities": 9000000.00,
+                "shareholder_equity": 6000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 3500000.00,
+                "investing_cash_flow": -700000.00,
+                "financing_cash_flow": 500000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-10",
+              "headline": "TVS Motor Reports Record Sales in Q3",
+              "link": "https://example.com/tvs-motor-q3-sales"
+              }
+            ]
+          },
+          {
+            "symbol": "COFORGE",
+            "company_name": "Coforge Ltd",
+            "industry": "IT Services",
+            "sector": "Technology",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 2500.00,
+              "opening_price": 2400.00,
+              "day_high": 2550.00,
+              "day_low": 2380.00,
+              "previous_close": 2450.00,
+              "market_cap": 1000000.00,
+              "pe_ratio": 30.00,
+              "dividend_yield": 1.00,
+              "earnings_per_share": 83.33,
+              "volume": 300000,
+              "avg_volume": 280000,
+              "beta": 1.20,
+              "52_week_high": 2600.00,
+              "52_week_low": 2000.00,
+              "year_to_date_return": 15.0,
+              "analyst_ratings": {
+                "strong_buy": 7,
+                "buy": 10,
+                "hold": 4,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 12000000.00,
+                "operating_expense": 9000000.00,
+                "operating_profit": 3000000.00,
+                "other_income": 100000.00,
+                "depreciation_and_amortization": 150000.00,
+                "interest": 200000.00,
+                "profit_before_tax": 2850000.00,
+                "tax": 570000.00,
+                "net_profit": 2280000.00
+              },
+              "balance_sheet": {
+                "total_assets": 18000000.00,
+                "total_liabilities": 10000000.00,
+                "shareholder_equity": 8000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 2000000.00,
+                "investing_cash_flow": -500000.00,
+                "financing_cash_flow": 300000.00
+              }
+            },
+            "news": [
+              {"date": "2024-10-11",
+              "headline": "Coforge Secures Major IT Contract",
+              "link": "https://example.com/coforge-major-it-contract"
+              }
+            ]
+          },
+          {
+            "symbol": "ZEEL",
+            "company_name": "Zee Entertainment Enterprises Ltd",
+            "industry": "Media",
+            "sector": "Communication Services",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 350.00,
+              "opening_price": 340.00,
+              "day_high": 360.00,
+              "day_low": 335.00,
+              "previous_close": 345.00,
+              "market_cap": 800000.00,
+              "pe_ratio": 25.00,
+              "dividend_yield": 1.50,
+              "earnings_per_share": 14.00,
+              "volume": 1800000,
+              "avg_volume": 1750000,
+              "beta": 1.05,
+              "52_week_high": 380.00,
+              "52_week_low": 250.00,
+              "year_to_date_return": 6.0,
+              "analyst_ratings": {
+                "strong_buy": 5,
+                "buy": 8,
+                "hold": 7,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 15000000.00,
+                "operating_expense": 11000000.00,
+                "operating_profit": 4000000.00,
+                "other_income": 200000.00,
+                "depreciation_and_amortization": 300000.00,
+                "interest": 500000.00,
+                "profit_before_tax": 3700000.00,
+                "tax": 740000.00,
+                "net_profit": 2960000.00
+              },
+              "balance_sheet": {
+                "total_assets": 25000000.00,
+                "total_liabilities": 15000000.00,
+                "shareholder_equity": 10000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 2500000.00,
+                "investing_cash_flow": -600000.00,
+                "financing_cash_flow": 400000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-12",
+              "headline": "Zee Entertainment Announces New Programming Schedule",
+              "link": "https://example.com/zeel-new-programming"
+              }
+            ]
+          },
+          {
+            "symbol": "PVRINOX",
+            "company_name": "PVR Inox Ltd",
+            "industry": "Entertainment",
+            "sector": "Communication Services",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 1800.00,
+              "opening_price": 1750.00,
+              "day_high": 1850.00,
+              "day_low": 1700.00,
+              "previous_close": 1780.00,
+              "market_cap": 900000.00,
+              "pe_ratio": 35.00,
+              "dividend_yield": 0.50,
+              "earnings_per_share": 51.43,
+              "volume": 700000,
+              "avg_volume": 650000,
+              "beta": 1.15,
+              "52_week_high": 1900.00,
+              "52_week_low": 1400.00,
+              "year_to_date_return": 12.0,
+              "analyst_ratings": {
+                "strong_buy": 4,
+                "buy": 5,
+                "hold": 9,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 6000000.00,
+                "operating_expense": 4000000.00,
+                "operating_profit": 2000000.00,
+                "other_income": 150000.00,
+                "depreciation_and_amortization": 200000.00,
+                "interest": 300000.00,
+                "profit_before_tax": 1850000.00,
+                "tax": 370000.00,
+                "net_profit": 1480000.00
+              },
+              "balance_sheet": {
+                "total_assets": 12000000.00,
+                "total_liabilities": 6000000.00,
+                "shareholder_equity": 6000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1200000.00,
+                "investing_cash_flow": -300000.00,
+                "financing_cash_flow": 200000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-13",
+              "headline": "PVR INOX Achieves Milestone in Customer Satisfaction",
+              "link": "https://example.com/pvr-inox-customer-satisfaction"
+              }
+            ]
+          },
+          {
+            "symbol": "SUNTV",
+            "company_name": "Sun TV Network Ltd",
+            "industry": "Media",
+            "sector": "Communication Services",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 600.00,
+              "opening_price": 580.00,
+              "day_high": 610.00,
+              "day_low": 570.00,
+              "previous_close": 590.00,
+              "market_cap": 700000.00,
+              "pe_ratio": 28.00,
+              "dividend_yield": 1.00,
+              "earnings_per_share": 21.43,
+              "volume": 1200000,
+              "avg_volume": 1150000,
+              "beta": 0.95,
+              "52_week_high": 640.00,
+              "52_week_low": 450.00,
+              "year_to_date_return": 9.0,
+              "analyst_ratings": {
+                "strong_buy": 6,
+                "buy": 7,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 10000000.00,
+                "operating_expense": 7000000.00,
+                "operating_profit": 3000000.00,
+                "other_income": 250000.00,
+                "depreciation_and_amortization": 400000.00,
+                "interest": 500000.00,
+                "profit_before_tax": 2850000.00,
+                "tax": 570000.00,
+                "net_profit": 2280000.00
+              },
+              "balance_sheet": {
+                "total_assets": 15000000.00,
+                "total_liabilities": 9000000.00,
+                "shareholder_equity": 6000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1400000.00,
+                "investing_cash_flow": -200000.00,
+                "financing_cash_flow": 400000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-14",
+              "headline": "Sun TV Partners with Global Networks for Content",
+              "link": "https://example.com/sun-tv-global-partnership"
+              }
+            ]
+          },
+          {
+            "symbol": "GODREJPROP",
+            "company_name": "Godrej Properties Ltd",
+            "industry": "Real Estate",
+            "sector": "Financials",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 1400.00,
+              "opening_price": 1380.00,
+              "day_high": 1420.00,
+              "day_low": 1360.00,
+              "previous_close": 1390.00,
+              "market_cap": 1500000.00,
+              "pe_ratio": 25.00,
+              "dividend_yield": 1.20,
+              "earnings_per_share": 56.00,
+              "volume": 1500000,
+              "avg_volume": 1450000,
+              "beta": 1.10,
+              "52_week_high": 1500.00,
+              "52_week_low": 1000.00,
+              "year_to_date_return": 7.0,
+              "analyst_ratings": {
+                "strong_buy": 10,
+                "buy": 8,
+                "hold": 4,
+                "sell": 3,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 12000000.00,
+                "operating_expense": 9000000.00,
+                "operating_profit": 3000000.00,
+                "other_income": 200000.00,
+                "depreciation_and_amortization": 300000.00,
+                "interest": 1000000.00,
+                "profit_before_tax": 2200000.00,
+                "tax": 440000.00,
+                "net_profit": 1760000.00
+              },
+              "balance_sheet": {
+                "total_assets": 20000000.00,
+                "total_liabilities": 12000000.00,
+                "shareholder_equity": 8000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 1700000.00,
+                "investing_cash_flow": -500000.00,
+                "financing_cash_flow": 800000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-15",
+              "headline": "Godrej Properties Launches New Sustainable Housing Project",
+              "link": "https://example.com/godrej-properties-sustainable-housing"
+              }
+            ]
+          },
+          {
+            "symbol": "MARICO",
+            "company_name": "Marico Ltd",
+            "industry": "Consumer Goods",
+            "sector": "FMCG",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 500.00,
+              "opening_price": 490.00,
+              "day_high": 510.00,
+              "day_low": 480.00,
+              "previous_close": 495.00,
+              "market_cap": 700000.00,
+              "pe_ratio": 45.00,
+              "dividend_yield": 1.20,
+              "earnings_per_share": 11.11,
+              "volume": 1000000,
+              "avg_volume": 950000,
+              "beta": 0.90,
+              "52_week_high": 530.00,
+              "52_week_low": 400.00,
+              "year_to_date_return": 10.0,
+              "analyst_ratings": {
+                "strong_buy": 5,
+                "buy": 7,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 15000000.00,
+                "operating_expense": 11000000.00,
+                "operating_profit": 4000000.00,
+                "other_income": 200000.00,
+                "depreciation_and_amortization": 250000.00,
+                "interest": 150000.00,
+                "profit_before_tax": 3850000.00,
+                "tax": 770000.00,
+                "net_profit": 3080000.00
+              },
+              "balance_sheet": {
+                "total_assets": 12000000.00,
+                "total_liabilities": 6000000.00,
+                "shareholder_equity": 6000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 3000000.00,
+                "investing_cash_flow": -700000.00,
+                "financing_cash_flow": 500000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-16",
+              "headline": "Marico Reports Strong Q3 Earnings",
+              "link": "https://example.com/marico-q3-earnings"
+              }
+            ]
+          },
+          {
+            "symbol": "NESTLE",
+            "company_name": "Nestlé India Ltd",
+            "industry": "Food & Beverages",
+            "sector": "FMCG",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 21000.00,
+              "opening_price": 20500.00,
+              "day_high": 21250.00,
+              "day_low": 20400.00,
+              "previous_close": 20800.00,
+              "market_cap": 2000000.00,
+              "pe_ratio": 60.00,
+              "dividend_yield": 0.80,
+              "earnings_per_share": 350.00,
+              "volume": 500000,
+              "avg_volume": 480000,
+              "beta": 0.80,
+              "52_week_high": 21500.00,
+              "52_week_low": 18000.00,
+              "year_to_date_return": 8.0,
+              "analyst_ratings": {
+                "strong_buy": 8,
+                "buy": 9,
+                "hold": 3,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 60000000.00,
+                "operating_expense": 40000000.00,
+                "operating_profit": 20000000.00,
+                "other_income": 500000.00,
+                "depreciation_and_amortization": 1000000.00,
+                "interest": 200000.00,
+                "profit_before_tax": 18500000.00,
+                "tax": 3700000.00,
+                "net_profit": 14800000.00
+              },
+              "balance_sheet": {
+                "total_assets": 90000000.00,
+                "total_liabilities": 50000000.00,
+                "shareholder_equity": 40000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 15000000.00,
+                "investing_cash_flow": -1000000.00,
+                "financing_cash_flow": 2000000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-17",
+              "headline": "Nestlé India Expands into New Markets",
+              "link": "https://example.com/nestle-new-markets"
+              }
+            ]
+          },
+          {
+            "symbol": "DIVISLAB",
+            "company_name": "Divi's Laboratories Ltd",
+            "industry": "Pharmaceuticals",
+            "sector": "Healthcare",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 4000.00,
+              "opening_price": 3900.00,
+              "day_high": 4050.00,
+              "day_low": 3850.00,
+              "previous_close": 3950.00,
+              "market_cap": 900000.00,
+              "pe_ratio": 35.00,
+              "dividend_yield": 0.90,
+              "earnings_per_share": 114.29,
+              "volume": 300000,
+              "avg_volume": 290000,
+              "beta": 0.75,
+              "52_week_high": 4100.00,
+              "52_week_low": 3200.00,
+              "year_to_date_return": 18.0,
+              "analyst_ratings": {
+                "strong_buy": 7,
+                "buy": 10,
+                "hold": 5,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 50000000.00,
+                "operating_expense": 35000000.00,
+                "operating_profit": 15000000.00,
+                "other_income": 400000.00,
+                "depreciation_and_amortization": 800000.00,
+                "interest": 300000.00,
+                "profit_before_tax": 14200000.00,
+                "tax": 2840000.00,
+                "net_profit": 11360000.00
+              },
+              "balance_sheet": {
+                "total_assets": 60000000.00,
+                "total_liabilities": 30000000.00,
+                "shareholder_equity": 30000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 8000000.00,
+                "investing_cash_flow": -2000000.00,
+                "financing_cash_flow": 1500000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-18",
+              "headline": "Divi's Laboratories Collaborates with Global Pharma Firms",
+              "link": "https://example.com/divis-global-collaboration"
+              }
+            ]
+          },
+          {
+            "symbol": "DRREDDY",
+            "company_name": "Dr. Reddy's Laboratories Ltd",
+            "industry": "Pharmaceuticals",
+            "sector": "Healthcare",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 5000.00,
+              "opening_price": 4900.00,
+              "day_high": 5050.00,
+              "day_low": 4850.00,
+              "previous_close": 4950.00,
+              "market_cap": 900000.00,
+              "pe_ratio": 28.00,
+              "dividend_yield": 0.70,
+              "earnings_per_share": 178.57,
+              "volume": 250000,
+              "avg_volume": 240000,
+              "beta": 0.85,
+              "52_week_high": 5100.00,
+              "52_week_low": 4000.00,
+              "year_to_date_return": 15.0,
+              "analyst_ratings": {
+                "strong_buy": 6,
+                "buy": 9,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 80000000.00,
+                "operating_expense": 55000000.00,
+                "operating_profit": 25000000.00,
+                "other_income": 600000.00,
+                "depreciation_and_amortization": 1000000.00,
+                "interest": 500000.00,
+                "profit_before_tax": 23500000.00,
+                "tax": 4700000.00,
+                "net_profit": 18800000.00
+              },
+              "balance_sheet": {
+                "total_assets": 70000000.00,
+                "total_liabilities": 40000000.00,
+                "shareholder_equity": 30000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 16000000.00,
+                "investing_cash_flow": -3000000.00,
+                "financing_cash_flow": 2000000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-19",
+              "headline": "Dr. Reddy's Launches New Over-the-Counter Products",
+              "link": "https://example.com/dr-reddy-otc-products"
+              }
+            ]
+          },
+          {
+            "symbol": "KOTAKBANK",
+            "company_name": "Kotak Mahindra Bank Ltd",
+            "industry": "Banking",
+            "sector": "Financial Services",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 2100.00,
+              "opening_price": 2050.00,
+              "day_high": 2125.00,
+              "day_low": 2030.00,
+              "previous_close": 2080.00,
+              "market_cap": 3500000.00,
+              "pe_ratio": 34.00,
+              "dividend_yield": 0.40,
+              "earnings_per_share": 61.76,
+              "volume": 600000,
+              "avg_volume": 550000,
+              "beta": 0.85,
+              "52_week_high": 2200.00,
+              "52_week_low": 1800.00,
+              "year_to_date_return": 12.0,
+              "analyst_ratings": {
+                "strong_buy": 10,
+                "buy": 8,
+                "hold": 5,
+                "sell": 2,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 10000000.00,
+                "operating_expense": 7000000.00,
+                "operating_profit": 3000000.00,
+                "other_income": 500000.00,
+                "depreciation_and_amortization": 100000.00,
+                "interest": 200000.00,
+                "profit_before_tax": 2900000.00,
+                "tax": 580000.00,
+                "net_profit": 2320000.00
+              },
+              "balance_sheet": {
+                "total_assets": 50000000.00,
+                "total_liabilities": 25000000.00,
+                "shareholder_equity": 25000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 2500000.00,
+                "investing_cash_flow": -500000.00,
+                "financing_cash_flow": 300000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-20",
+              "headline": "Kotak Bank Reports Strong Net Profit Growth",
+              "link": "https://example.com/kotak-bank-net-profit"
+              }
+            ]
+          },
+          {
+            "symbol": "EICHERMOT",
+            "company_name": "Eicher Motors Ltd",
+            "industry": "Automobile",
+            "sector": "Manufacturing",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 3000.00,
+              "opening_price": 2950.00,
+              "day_high": 3050.00,
+              "day_low": 2900.00,
+              "previous_close": 2980.00,
+              "market_cap": 580000.00,
+              "pe_ratio": 38.00,
+              "dividend_yield": 0.50,
+              "earnings_per_share": 78.95,
+              "volume": 200000,
+              "avg_volume": 210000,
+              "beta": 1.05,
+              "52_week_high": 3200.00,
+              "52_week_low": 2500.00,
+              "year_to_date_return": 15.0,
+              "analyst_ratings": {
+                "strong_buy": 5,
+                "buy": 7,
+                "hold": 6,
+                "sell": 1,
+                "strong_sell": 0
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 45000000.00,
+                "operating_expense": 32000000.00,
+                "operating_profit": 13000000.00,
+                "other_income": 300000.00,
+                "depreciation_and_amortization": 600000.00,
+                "interest": 200000.00,
+                "profit_before_tax": 12400000.00,
+                "tax": 2480000.00,
+                "net_profit": 9920000.00
+              },
+              "balance_sheet": {
+                "total_assets": 30000000.00,
+                "total_liabilities": 14000000.00,
+                "shareholder_equity": 16000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 9000000.00,
+                "investing_cash_flow": -1500000.00,
+                "financing_cash_flow": 500000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-21",
+                "headline": "Eicher Motors Announces New Motorcycle Launch",
+                "link": "https://example.com/eicher-motorcycle-launch"
+              }
+            ]
+          },
+          {
+            "symbol": "BOSCHLTD",
+            "company_name": "Bosch Ltd",
+            "industry": "Automobile",
+            "sector": "Manufacturing",
+            "exchange": "NSE",
+            "stock_data": {
+              "current_price": 16000.00,
+              "opening_price": 15800.00,
+              "day_high": 16200.00,
+              "day_low": 15600.00,
+              "previous_close": 15900.00,
+              "market_cap": 600000.00,
+              "pe_ratio": 50.00,
+              "dividend_yield": 1.00,
+              "earnings_per_share": 320.00,
+              "volume": 150000,
+              "avg_volume": 145000,
+              "beta": 0.90,
+              "52_week_high": 17000.00,
+              "52_week_low": 14000.00,
+              "year_to_date_return": 6.0,
+              "analyst_ratings": {
+                "strong_buy": 3,
+                "buy": 4,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 55000000.00,
+                "operating_expense": 40000000.00,
+                "operating_profit": 15000000.00,
+                "other_income": 1000000.00,
+                "depreciation_and_amortization": 1200000.00,
+                "interest": 400000.00,
+                "profit_before_tax": 14600000.00,
+                "tax": 2920000.00,
+                "net_profit": 11680000.00
+              },
+              "balance_sheet": {
+                "total_assets": 75000000.00,
+                "total_liabilities": 30000000.00,
+                "shareholder_equity": 45000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 11000000.00,
+                "investing_cash_flow": -4000000.00,
+                "financing_cash_flow": 1000000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-22",
+                "headline": "Bosch Ltd Launches New Smart Home Products",
+                "link": "https://example.com/bosch-smart-home"
+              }
+            ]
+          },
+          {
+            "symbol": "BIOCON",
+            "company_name": "Biocon Ltd",
+            "industry": "Biotechnology",
+            "sector": "Healthcare",
+            "exchange": "BSE",
+            "stock_data": {
+              "current_price": 430.00,
+              "opening_price": 420.00,
+              "day_high": 440.00,
+              "day_low": 410.00,
+              "previous_close": 425.00,
+              "market_cap": 700000.00,
+              "pe_ratio": 24.00,
+              "dividend_yield": 0.80,
+              "earnings_per_share": 17.92,
+              "volume": 900000,
+              "avg_volume": 850000,
+              "beta": 0.95,
+              "52_week_high": 450.00,
+              "52_week_low": 350.00,
+              "year_to_date_return": 10.0,
+              "analyst_ratings": {
+                "strong_buy": 5,
+                "buy": 8,
+                "hold": 6,
+                "sell": 2,
+                "strong_sell": 1
+              }
+            },
+            "financials": {
+              "income_statement": {
+                "sales": 12000000.00,
+                "operating_expense": 8000000.00,
+                "operating_profit": 4000000.00,
+                "other_income": 250000.00,
+                "depreciation_and_amortization": 300000.00,
+                "interest": 150000.00,
+                "profit_before_tax": 3950000.00,
+                "tax": 790000.00,
+                "net_profit": 3160000.00
+              },
+              "balance_sheet": {
+                "total_assets": 30000000.00,
+                "total_liabilities": 12000000.00,
+                "shareholder_equity": 18000000.00
+              },
+              "cash_flow_statement": {
+                "operating_cash_flow": 5000000.00,
+                "investing_cash_flow": -2000000.00,
+                "financing_cash_flow": 800000.00
+              }
+            },
+            "news": [
+              {
+                "date": "2024-10-23",
+                "headline": "Biocon Expands Manufacturing Facilities",
+                "link": "https://example.com/biocon-manufacturing-expansion"
+              }
+            ]
+          }
+    ]
+}
