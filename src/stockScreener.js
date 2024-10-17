@@ -7,7 +7,6 @@ import LatestNews from './LatestNews';
 import { FaArrowUp, FaArrowDown } from 'react-icons/fa';
 
 
-
     const StockScreener = ({stock}) => {
         // const randomBgColor = getRandomColor(); // Get a random color
         const [stocks, setStocks] = useState([]); // All stocks
@@ -37,22 +36,22 @@ import { FaArrowUp, FaArrowDown } from 'react-icons/fa';
         const fetchStocks = async () => {
             const data = stockData?.stocks || [];
             setStocks(data); // Load all stock data
-            setFilteredStocks(data.slice(0, 8)); // Display only the first 10 stocks initially
+            setFilteredStocks(data.slice(0, 10)); // Display only the first n_number stocks initially
         };
         fetchStocks();
     }, []);
 
-    // useEffect(() => {
-    //     if (submittedSearchTerm) {
-    //         const filtered = stocks.filter(stock =>
-    //             stock.company_name.toLowerCase().includes(submittedSearchTerm.toLowerCase()) ||
-    //             stock.symbol.toLowerCase().includes(submittedSearchTerm.toLowerCase())
-    //         );
-    //         setFilteredStocks(filtered.slice(0, 10)); // Limit to 10 results
-    //     } else {
-    //         setFilteredStocks(stocks.slice(0, 10)); // Show initial stocks if no search term is submitted
-    //     }
-    // }, [submittedSearchTerm, stocks]);
+    useEffect(() => {
+        if (submittedSearchTerm) {
+            const filtered = stocks.filter(stock =>
+                stock.company_name.toLowerCase().includes(submittedSearchTerm.toLowerCase()) ||
+                stock.symbol.toLowerCase().includes(submittedSearchTerm.toLowerCase())
+            );
+            setFilteredStocks(filtered.slice(0, 10)); // Limit to n_number results
+        } else {
+            setFilteredStocks(stocks.slice(0, 10)); // Show initial stocks if no search term is submitted
+        }
+    }, [submittedSearchTerm, stocks]);
 
     const handleSearchSubmit = () => {
         setSubmittedSearchTerm(searchTerm); 
@@ -80,8 +79,9 @@ import { FaArrowUp, FaArrowDown } from 'react-icons/fa';
         }))
     );
 
+
     return (
-        <div data-theme="dark" className="max-w-6xl mx-auto p-5 bg-white dark:bg-slate-600">
+        <div data-theme="dark" className="p-2 max-w-6xl mx-auto bg-white dark:bg-slate-700">
 
         <h1 class="mb-4 text-3xl font-extrabold text-gray-800 dark:text-white md:text-5xl lg:text-6xl">
             <span class="text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-red-600">Stock</span> InSight
@@ -103,15 +103,16 @@ import { FaArrowUp, FaArrowDown } from 'react-icons/fa';
 
 
             {/* Stock Cards */}
-            <div className="flex flex-wrap mt-6 -mx-4">
+            <div className="flex flex-wrap mt-6">
                 {filteredStocks?.length > 0 ? (
                     filteredStocks.map((stock, index) => (
-                        <div key={index} className="mb-5 w-full sm:w-1/4 lg:w-1/4 px-4 ">
+                        <div key={index} className="mb-5 w-full sm:w-1/4 lg:w-1/5 px-4 ">
                             <div className="bg-white rounded-lg p-5 h-full shadow-md transition-shadow duration-300 ease-in-out hover:shadow-lg hover:cursor-pointer dark:bg-slate-600">
                                 
-                                <h1 className={`rounded-lg font-bold p-1 mr-40 inline-block dark:text-white ${getRandomColor()}`}>{stock.symbol}</h1>
+                                <h1 className={`rounded-lg font-bold p-1 inline-block dark:text-white ${getRandomColor()}`}>{stock.symbol}</h1>
                                 
                                 <h2 className="text-lg font-medium mb-2 dark:text-slate-300">{stock.company_name}</h2>
+
                                 <p className="text-xl font-bold dark:text-white">₹{stock.stock_data.current_price}</p>
                                 
                                 <div className="flex justify-between items-center mt-2">
@@ -134,6 +135,7 @@ import { FaArrowUp, FaArrowDown } from 'react-icons/fa';
                                         ₹{stock.stock_data.change_rs}
                                     </p>
                                 </div>
+
                             </div>
                         </div>
                     ))
@@ -142,8 +144,10 @@ import { FaArrowUp, FaArrowDown } from 'react-icons/fa';
                 )}
             </div>
 
+            
+
             {/* More Button */}
-            <div className="text-center mt-10">
+            <div className="text-center">
                 <button 
                     onClick={handleMoreClick} 
                     className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">
@@ -152,7 +156,7 @@ import { FaArrowUp, FaArrowDown } from 'react-icons/fa';
             </div>
 
             {/* Latest News Section */}
-            <LatestNews news={allNews} />
+            {/* <LatestNews news={allNews} /> */}
         </div>
     );
 };

@@ -46,7 +46,7 @@ const LatestNews = ({ news }) => {
                     <div key={index} className="p-4 bg-white shadow rounded mb-4 flex items-center">
 
                         <div className="ml-4 flex-1">
-                            <div className={` rounded-lg font-bold p-2 mr-40 inline-block ${getRandomColor()}`}>
+                            <div className={`rounded-lg font-bold p-2 mr-40 inline-block ${getRandomColor()}`}>
                                 {item.symbol}
                             </div>
                             <div className="text-xl font-semibold">{item.company_name}</div>

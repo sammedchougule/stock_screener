@@ -74,7 +74,7 @@ const SearchBar = ({ searchTerm, onSearchChange, onSearchSubmit, allStocks, onSt
                 onChange={handleInputChange}
                 onKeyDown={handleKeyDown} // Handle key navigation
                 className="w-full p-2 border rounded-xl h-12"
-                placeholder="Search stocks..."
+                placeholder="Search for stocks..."
             />
             {isDropdownVisible && searchTerm && (
                 <div
